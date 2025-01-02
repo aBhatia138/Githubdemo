@@ -1,4 +1,4 @@
 # Githubdemo
 This is my first git repositiory
 <br>
-Author - Amoghaya Bhatia
+<h3>Author - Amoghaya Bhatia
